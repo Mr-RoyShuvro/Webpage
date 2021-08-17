@@ -1,0 +1,512 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.nav-right{
+	
+	color: white;
+	margin-right: 50px;
+	font-size: 1.4em;
+}
+
+.nav-right li{
+margin-right: 50px;
+
+}
+.nav-right a{
+	color: white;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+
+
+#brand{
+	color: white;
+	font-size: 1.8em;
+}
+
+.main-nav{
+	background:#002933;
+		height: 70px;
+}
+
+
+.welcome{
+	height:800px;
+	width: auto;
+	background:url(2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center;
+}
+.overlay{
+	height: 800px;
+	width: auto;
+	background: rgba(0,0,0,0.6);
+}
+
+.title1{
+	text-align: center;
+	color:white;
+	font-size:2.0em;
+	padding-top:60px;
+
+
+}
+
+.title2{
+	text-align: left;
+	color:white;
+	font-size:2.0em;
+	padding-top:60px;
+
+
+}
+
+
+
+.logo{
+	height:80px;
+	width:100px;
+	margin-left:0px;
+}
+.text{
+	color:white;
+	text-align: center;
+	top:250px;
+	position: relative;
+	font-size:3.0em;
+
+}
+.font{
+	color:white;
+	font-size: 1.1em;
+	margin-top:100px;
+	
+}
+
+.Ourself{
+
+	height:1000px;
+	width: auto;
+	background:url(1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+
+
+}
+
+.lay{
+	height:1000px;
+	width: auto;
+	background: rgba(0,0,0,0.8);
+	background: cover;
+}
+
+.head{
+	
+
+	text-align: center;
+	color:black;
+	font-size:3.0em;
+	color: white;
+	padding-top: 80px;
+
+
+}
+
+.box1{
+	height:450px;
+	width:auto;
+	background:white;
+	margin-left: 20px; 
+	margin-left: 20px; 
+	margin-top: 100px;
+	font-weight: 600;
+	border-radius:40px;
+
+}
+.box2{
+	height:450px;
+	width:auto;
+	background: linear-gradient(to bottom, #ffffff 0%, #009999 100%);
+	margin-left: 20px; 
+	margin-top: 100px;
+	font-weight: 600;
+	border-radius:40px;
+}
+.box3{
+	height:450px;
+	width:auto;
+	background: linear-gradient(to bottom, #ff9933 0%, #ffffcc 100%);
+	
+	
+	margin-left: 20px; 
+	margin-top:100px;
+	font-weight: 600;
+	border-radius:40px;
+}
+.msg{
+	text-align: center;
+
+	padding-top:40px;
+
+}
+.description{
+	text-align: center;
+	color: white;
+	padding-top: 120px;
+
+
+
+}
+
+.Place{
+	height:1000px;
+	width: auto;
+	background-color: white;
+	background:url(Special6.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center;
+
+}
+.title{
+	text-align: center;
+	color:white;
+	font-size:3.0em;
+	padding-top:60px;
+
+
+}
+.box{
+	height:300px;
+	width:300px;
+	margin: 30px;
+	margin-top:50px;
+}
+
+
+
+.box img{
+	height:300px;
+	width:350px;
+	margin-left: 5px;
+	margin-right: 10px;
+	border-radius:30px;
+	
+
+}
+
+
+
+ .place{
+	height:1200px;
+	width: auto;
+	background:black;
+	text-align: center
+
+
+}
+
+.Pizza{
+	height:auto;
+	width: auto;
+	background:url(pizza5.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+
+.Burger{
+	height:auto;
+	width: auto;
+	background:url(Burger1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+.Rice{
+	height:auto;
+	width: auto;
+	background:url(Rice4.png);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+.Special{
+	height:auto;
+	width: auto;
+	background:url(Special3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+.Desserts{
+	height:auto;
+	width: auto;
+	background:url(Dessert22.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+
+.Beverages{
+	height:auto;
+	width: auto;
+	background:url(Beverage4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+	text-align: center
+}
+
+
+.headline{
+
+	color:white;
+	text-align: : center;
+	font-size:2.5em;
+	padding-top:80px;
+
+}
+
+
+  
+.line{
+	color:white;
+	text-align: center;
+	padding-top:5px;
+	font-weight: 600;
+}
+
+
+
+.btn-more{
+	
+	background:white;
+	font-weight:700;
+	margin-bottom:1px;0px;
+	margin-left: 40px;
+	border-radius: 20px;
+	border: 2px solid black;
+	}
+
+
+.price{
+	
+	color: white;
+	font-weight:200;
+	text-align: center;
+	
+	}
+
+
+	.btn-more a{
+		color: black;
+		text-decoration:none;
+
+	}
+	.name{
+		color: white;
+		
+		margin-left: 40px;
+		
+		margin-bottom:5px;
+		font-weight:700;
+		
+	}
+
+	.name1{
+		color: white;
+		
+		margin-left: 40px;
+		
+		margin-bottom:5px;
+		font-weight:400;
+		
+	}
+
+
+
+
+
+	hr{
+		width:200px;
+		height: 3px;
+		background:white;
+		margin: auto;
+	}
+
+
+
+
+	.Ourpackage{
+
+	height:950px;
+	width: auto;
+	background:url(1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background:cover;
+
+
+}
+
+.lay2{
+	height:1000px;
+	width: auto;
+	background: rgba(0,0,0,0.6);
+	background: cover;
+}
+
+.head2{
+	
+
+	text-align: center;
+	color:black;
+	font-size:3.0em;
+	color: white;
+	padding-top: 80px;
+
+
+}
+
+.box11{
+	height:400px;
+	width:auto;
+	background:linear-gradient(to bottom, #ffffcc 24%, #ff9966 100%);
+	margin-left: 20px; 
+	margin-top: 100px;
+	font-weight: 600;
+	border-radius:40px;
+
+}
+.box22{
+	height:400px;
+	width:auto;
+	background:linear-gradient(to bottom, #ff9933 0%, #ffcc99 100%);
+	margin-left: 20px; 
+	margin-top: 100px;
+	font-weight: 600;
+	border-radius:40px;
+}
+.box33{
+	height:400px;
+	width:auto;
+	background:linear-gradient(to bottom, #990000 0%, #ffcc99 100%);
+	margin-left: 20px; 
+	margin-top:100px;
+	font-weight: 600;
+	border-radius:40px;
+}
+.msg2{
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 20px;
+
+}
+.description2{
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+
+}
+
+.contact-section{
+		height:750px;
+		width: auto;
+		text-align: center ;
+		background:url(5.jpeg);
+		background-repeat: no-repeat;
+	   background-position: center center ;
+	    background:cover;
+	    padding-top:20px;
+		color:white;
+
+
+	}
+	
+	.address{
+
+   margin-bottom:20px;
+   margin-right:50px;
+   font-weight: 700;
+
+
+	}
+
+	.form-group{
+		font-weight: 700;
+	}
+	
+	.label{
+		margin-right:425px;
+		font-size: 1em;
+	}
+
+
+	.Structure input{
+
+        width:70%;
+		margin-right:150px; 
+		background:white;
+		text-align: center;
+		border: 2px solid black;
+		padding-top: 0px;
+		font-weight: 600;
+	}
+
+	.Structure textarea{
+		width:70%;
+		margin-right:150px;
+		background: white;
+		text-align: center;
+		border: 2px solid black;
+    }
+
+
+	
+	.btn-submit{
+
+    font-weight: 700;
+	background:white;
+	color: black;
+	border-radius:0 0 5 5px;
+	border: 2px solid black;
+	margin-left: 60px;
+	margin-right: 200px;
+	padding-top:8px;
+}
+
+
+
+.footers{
+	background: black;
+	color:white;
+	text-align: center;
+  height: 30px;
+  width: auto;
+  font-weight: 700;  
+  }
+
+
+
+
+.abcd{
+
+	color: white;
+		font: 1.5em;
+		padding-top: 120px;
+}
+
